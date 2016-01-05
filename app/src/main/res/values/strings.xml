@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZAVEIT</string>
+    <string name="counter">0.000</string>
+    <string name="spent">How much do you want to spent?</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
